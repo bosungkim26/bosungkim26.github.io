@@ -21,9 +21,7 @@
 title: 순조
 email: bosung.kim26@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  안녕하세요. 순조 블로그입니다. 개발과 퍼블리싱, 데이터 분석 등으로 정보를 공유하고 있습니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bosungkim26.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 순조
